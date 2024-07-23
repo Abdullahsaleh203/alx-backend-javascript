@@ -22,7 +22,7 @@ process.stdin.on('end', () => {
 
 // rl.on('line', (input) => {
 //   if (name.toLowerCase() === 'exit') {
-//     console.log('This important sofware is now closing');
+//     console.log('This important software is now closing');
 //     rl.close();
 //   } else {
 //     console.log('Your name is: ${name}');
